@@ -1,0 +1,68 @@
+{
+    "project_info": {
+      "project_number": "997393822188",
+      "project_id": "posttest-7-2009106071",
+      "storage_bucket": "posttest-7-2009106071.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:997393822188:android:4919be3710b143857cd0c9",
+          "android_client_info": {
+            "package_name": "com.example.posttest7_2009106071_muhammadbasithalgiffari"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "997393822188-is30pnefq8svdpj5ffegth41anoaqh79.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCCXHX-_BJ1k8jA3kpSbJ7YAp-S3yHNWFA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "997393822188-is30pnefq8svdpj5ffegth41anoaqh79.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:997393822188:android:dee6c788f452227b7cd0c9",
+          "android_client_info": {
+            "package_name": "com.example.proyek_akhir"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "997393822188-is30pnefq8svdpj5ffegth41anoaqh79.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCCXHX-_BJ1k8jA3kpSbJ7YAp-S3yHNWFA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "997393822188-is30pnefq8svdpj5ffegth41anoaqh79.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
