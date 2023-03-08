@@ -6,10 +6,8 @@ Dalam aplikasi mobile yang kami buat, tema yang kami gunakan adalah Delivery mak
 ### 2. Sign Up Page
 ![](ImageReadme/signup-page.png)
 ### 3. Sign In Page
-![](ImageReadme/singin-page.png)
+![](ImageReadme/signin-page.png)
 ### 4. Verify Page
 ![](ImageReadme/verify-page.png)
-### 5. Intro Page
-![](ImageReadme/intro-page#1.png)
-### 6. Drawer Page
+### 5. Drawer Page
 ![](ImageReadme/dash-drawer.png)
